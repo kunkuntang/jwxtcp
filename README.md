@@ -1,6 +1,10 @@
 # jwxtcp
 教务系统测评脚本
 
+先上效果图
+
+(https://github.com/kunkuntang/jwxtcp/raw/master/readme.gif)
+
 ```
 var obj = document.getElementById('iframeautoheight').contentWindow
 
