@@ -44,3 +44,5 @@ btn.click()
 _ _ _
 
 最后的最后，刚刚过完618的我完全穷逼，敲代码不容易，如果觉得这代码对你有用，请施舍点补脑费吧，做小的感激不尽 T_T
+
+![](https://github.com/kunkuntang/jwxtcp/raw/master/payment.jpg)
