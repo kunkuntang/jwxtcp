@@ -1,6 +1,8 @@
 # jwxtcp
 教务系统测评脚本
 
+### 此代码仅供参考学习，大家不要拿来干坏事啊 >_<
+
 先上效果图
 
 ![效果图](https://github.com/kunkuntang/jwxtcp/raw/master/readme.gif)
