@@ -6,7 +6,7 @@
 ![效果图](https://github.com/kunkuntang/jwxtcp/raw/master/readme.gif)
 
 ```
-var obj = document.getElementById('iframeautoheight').contentWindow
+var obj = document.getElementsByTagName('iframe')[0].contentWindow
 
 var table = obj.document.getElementsByTagName('table')
 
