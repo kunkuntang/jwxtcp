@@ -39,4 +39,12 @@ btn.click()
  6. 粘贴到控制台的console区域
  7. 请大力地死命地敲enter回车键
  
- 好了我相信你们应该懂得如何装X了 =_=
+好了我相信你们应该懂得如何装X了 =_=
+
+_ _ _
+
+最后的最后，刚刚过完618的我完全穷逼，敲代码不容易，如果觉得这代码对你有用，请施舍点补脑费吧，做小的感激不尽 T_T
+
+![](https://github.com/kunkuntang/jwxtcp/raw/master/wechat_pay.jpg)
+
+![](https://github.com/kunkuntang/jwxtcp/raw/master/aliy_pay.jpg)	
