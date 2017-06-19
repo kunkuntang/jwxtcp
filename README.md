@@ -47,4 +47,4 @@ _ _ _
 
 ![](https://github.com/kunkuntang/jwxtcp/raw/master/wechat_pay.jpg)
 
-![](https://github.com/kunkuntang/jwxtcp/raw/master/aliy_pay.jpg)	
+![](https://github.com/kunkuntang/jwxtcp/raw/master/aliy_pay.jpg)
